@@ -7,8 +7,10 @@ Ce dépôt rassemble de manière pratique les nouveautés majeures apportées su
 + C#
 + Java
 + JavaScript
++ Lua
 + PHP
 + Python
++ Ruby
 + Rust
 
 Bonne lecture !
