@@ -2,7 +2,7 @@
 
 ![Logo](illustrations/logo-python.png)
 
-## 3.10 (12 septembre 2021)
+## 🔜 3.10
 
 ---
 
