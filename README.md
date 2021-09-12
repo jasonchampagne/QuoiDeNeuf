@@ -14,5 +14,7 @@ Ce dépôt rassemble de manière pratique les nouveautés majeures apportées su
 + [Python](python.md)
 + [Ruby](ruby.md)
 + [Rust](rust.md)
++ [SQL](sql.md)
++ [V](v.md)
 
 Bonne lecture !
