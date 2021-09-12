@@ -13,9 +13,7 @@
 |[**PEP 624**](https://www.python.org/dev/peps/pep-0624/)|Suppression des API d'encodage `Py_UNICODE`|
 |[**PEP 626**](https://www.python.org/dev/peps/pep-0626/)|Davantage de précision quant aux numérox de ligne pour le débogage et d'autres outils|
 |[**PEP 632**](https://www.python.org/dev/peps/pep-0632/)|Dépréciation du module `distutils`|
-|[**PEP 634**](https://www.python.org/dev/peps/pep-0634/)|Ajout du mot-clé `match` pour le filtrage par motif|
-|[**PEP 635**](https://www.python.org/dev/peps/pep-0635/)||
-|[**PEP 636**](https://www.python.org/dev/peps/pep-0636/)||
+|[**PEP 634**](https://www.python.org/dev/peps/pep-0634/)<br>[**PEP 635**](https://www.python.org/dev/peps/pep-0635/)<br>[**PEP 636**](https://www.python.org/dev/peps/pep-0636/)|Filtrage par motif avec l'ajout du mot-clé `match`|
 |[**PEP 644**](https://www.python.org/dev/peps/pep-0644/)||
 
 ## 3.9 (5 octobre 2020)
