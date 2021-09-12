@@ -1,5 +1,3 @@
 # Nouveautés Python
 
-## 3.9
-
-> 12/09/2021
+## 3.9 (12 septembre 2021)
