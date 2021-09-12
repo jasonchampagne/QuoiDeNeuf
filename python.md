@@ -1,5 +1,7 @@
 # Nouveautés Python
 
+![Logo](../illustrations/logo-python.png)
+
 ## 3.9 (12 septembre 2021)
 
 ---
