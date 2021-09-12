@@ -4,7 +4,7 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|[**PEP 597**](https://www.python.org/dev/peps/pep-0597/)|Ajout de l'option `EncodingWarning`|
+|[**PEP 597**](https://www.python.org/dev/peps/pep-0597/)|Ajout de l'option `EncodingWarning` lors de l'ouverture d'un fichier dont l'encodage n'est pas spécifié|
 |[**PEP 604**](https://www.python.org/dev/peps/pep-0604/)|Simplification de l'écriture d'unions|
 |[**PEP 612**](https://www.python.org/dev/peps/pep-0612/)||
 |[**PEP 613**](https://www.python.org/dev/peps/pep-0613/)||
