@@ -11,7 +11,7 @@
 |[**PEP 618**](https://www.python.org/dev/peps/pep-0618/)|Ajout d'une vérification optionelle de la longueur pour `zip`|
 |[**PEP 623**](https://www.python.org/dev/peps/pep-0623/)|Suppression de `wstr` dans l'implémentation d'Unicode (`PyUnicodeObject`)|
 |[**PEP 624**](https://www.python.org/dev/peps/pep-0624/)|Suppression des API d'encodage `Py_UNICODE`|
-|[**PEP 626**](https://www.python.org/dev/peps/pep-0626/)||
+|[**PEP 626**](https://www.python.org/dev/peps/pep-0626/)|Davantage de précision quant aux numérox de ligne pour le débogage et d'autres outils|
 |[**PEP 632**](https://www.python.org/dev/peps/pep-0632/)||
 |[**PEP 634**](https://www.python.org/dev/peps/pep-0634/)||
 |[**PEP 635**](https://www.python.org/dev/peps/pep-0635/)||
