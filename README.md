@@ -2,7 +2,7 @@
 
 Ce dépôt rassemble de manière pratique les nouveautés majeures apportées sur quelques langages de programmation :
 
-+ C
++ [C](c.md)
 + C++
 + C#
 + Java
