@@ -9,7 +9,7 @@
 |[**PEP 612**](https://www.python.org/dev/peps/pep-0612/)||
 |[**PEP 613**](https://www.python.org/dev/peps/pep-0613/)||
 |[**PEP 618**](https://www.python.org/dev/peps/pep-0618/)||
-|[**PEP 623**](https://www.python.org/dev/peps/pep-0623/)|Suppression de `wstr` dans Unicode|
+|[**PEP 623**](https://www.python.org/dev/peps/pep-0623/)|Suppression de `wstr` dans l'implémentation d'Unicode (`PyUnicodeObject`)|
 |[**PEP 624**](https://www.python.org/dev/peps/pep-0624/)||
 |[**PEP 626**](https://www.python.org/dev/peps/pep-0626/)||
 |[**PEP 632**](https://www.python.org/dev/peps/pep-0632/)||
