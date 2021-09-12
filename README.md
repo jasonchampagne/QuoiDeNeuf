@@ -7,6 +7,7 @@ Ce dépôt rassemble de manière pratique les nouveautés majeures apportées su
 + [C#](csharp.md)
 + [Dart](dart.md)
 + [Go](go.md)
++ [Haskell](haskell.md)
 + [Java](java.md)
 + [JavaScript](javascript.md)
 + [Lua](lua.md)
