@@ -5,6 +5,7 @@ Ce dépôt rassemble de manière pratique les nouveautés majeures apportées su
 + [C](c.md)
 + [C++](cpp.md)
 + [C#](csharp.md)
++ [Dart](dart.md)
 + [Go](go.md)
 + [Java](java.md)
 + [JavaScript](javascript.md)
