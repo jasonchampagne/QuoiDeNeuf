@@ -5,6 +5,8 @@
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
 |[**PEP 604**](https://www.python.org/dev/peps/pep-0604/)|Simplification de l'écriture d'unions|
+|[**PEP 612**](https://www.python.org/dev/peps/pep-0612/)||
+|[**PEP 613**](https://www.python.org/dev/peps/pep-0613/)||
 |[**PEP 618**](https://www.python.org/dev/peps/pep-0618/)||
 |[**PEP 623**](https://www.python.org/dev/peps/pep-0623/)|Suppression de `wstr` dans Unicode|
 |[**PEP 626**](https://www.python.org/dev/peps/pep-0626/)||
