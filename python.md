@@ -53,12 +53,12 @@
 |[**PEP 552**](https://www.python.org/dev/peps/pep-0552/)|Génération des fichiers `.pyc` basée sur un hash|
 |[**PEP 553**](http://www.python.org/dev/peps/pep-0553)|Ajout d'une nouvelle fonction native `breakpoint()`|
 |[**PEP 557**](http://www.python.org/dev/peps/pep-0557)|Ajout d'un module `dataclasses` pour la création d'une classe de données plus concise|
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
+|[**PEP 560**](http://www.python.org/dev/peps/pep-0560)|Support de base pour le typage des modules et des types génériques|
+|[**PEP 562**](http://www.python.org/dev/peps/pep-0562)|Extension de l'accès aux attributs d'un module|
+|[**PEP 563**](http://www.python.org/dev/peps/pep-0563)|Évaluation différée des annotations|
+|[**PEP 564**](http://www.python.org/dev/peps/pep-0564)|Gestion des nanosecondes pour le module `time`|
+|[**PEP 565**](http://www.python.org/dev/peps/pep-0565)|Amélioration de la gestion des APIs obsolètes (`DeprecationWarning`)|
+|[**PEP 567**](http://www.python.org/dev/peps/pep-0567)|Variables contextualisées|
 
 ## 3.6 (23 décembre 2016)
 
