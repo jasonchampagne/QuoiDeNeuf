@@ -118,7 +118,7 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|[**PEP 428**](http://www.python.org/dev/peps/pep-0428)|Ajout du module `pathlib` pour la gestion des chemins d'accès au système de fichiers et opérations courantes sur les chemins|
+|[**PEP 428**](http://www.python.org/dev/peps/pep-0428)|Nouvelle API orientée objet (`pathlib`) de manipulation de chemins du système de fichiers|
 |[**PEP 435**](http://www.python.org/dev/peps/pep-0435)|Ajout d'une implémentation standard de types énumérés (module `enum`)|
 |[**PEP 436**](http://www.python.org/dev/peps/pep-0436)|Introspection complète des fonctions et méthodes implémentées en C (_The Argument Clinic DSL_)|
 |[**PEP 442**](http://www.python.org/dev/peps/pep-0442)||
