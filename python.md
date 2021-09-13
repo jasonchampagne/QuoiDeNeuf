@@ -174,8 +174,18 @@
 |:--:|:--|
 |[**PEP 237**](https://www.python.org/dev/peps/pep-0237/)|Renommage du type `long` en `int` pour représenter des entiers|
 |[**PEP 238**](https://www.python.org/dev/peps/pep-0238/)|Changement sur l'opérateur de division (`/` : résultat en flottant, `//` : résultat sous forme d'entier)|
-|[**PEP aaa**](dddd)||
-|[**PEP aaa**](dddd)||
-|[**PEP aaa**](dddd)||
-|[**PEP aaa**](dddd)||
+|[**PEP 3102**](https://www.python.org/dev/peps/pep-3102/)|Arguments à mot-clé uniquement|
+|[**PEP 3104**](https://www.python.org/dev/peps/pep-3104/)|Nouveau mot-clé `nonlocal` pour assigner directement à une variable une portée externe,mais non globale|
 |[**PEP 3105**](https://www.python.org/dev/peps/pep-3105/)|L'instruction `print` a été remplacée par une fonction `print()`|
+|[**PEP 3107**](https://www.python.org/dev/peps/pep-3107/)|Annotation des fonctions (arguments et valeur de retour)|
+|[**PEP 3138**](https://www.python.org/dev/peps/pep-3138/)|Nouvelle représentation des chaînes de caractères (`repr()` sur celles-ci n'échappe plus les caractères non-ASCII)|
+|[**PEP 3120**](https://www.python.org/dev/peps/pep-3120/)|L'encodage par défaut des sources est désormais UTF-8|
+|[**PEP 3131**](https://www.python.org/dev/peps/pep-3131/)|Support des lettres non-ASCII comme identifiants|
+|[**PEP aaa**](dddd)||
+|[**PEP aaa**](dddd)||
+|[**PEP aaa**](dddd)||
+|[**PEP aaa**](dddd)||
+|[**PEP aaa**](dddd)||
+|[**PEP aaa**](dddd)||
+|[**PEP aaa**](dddd)||
+|[**PEP aaa**](dddd)||
