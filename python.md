@@ -85,19 +85,19 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|[**PEP 441**](http://www.python.org/dev/peps/pep-0441)||
+|[**PEP 448**](http://www.python.org/dev/peps/pep-0448)||
+|[**PEP 461**](http://www.python.org/dev/peps/pep-0461)||
+|[**PEP 465**](http://www.python.org/dev/peps/pep-0465)||
+|[**PEP 471**](http://www.python.org/dev/peps/pep-0471)||
+|[**PEP 475**](http://www.python.org/dev/peps/pep-0475)||
+|[**PEP 479**](http://www.python.org/dev/peps/pep-0479)||
+|[**PEP 484**](http://www.python.org/dev/peps/pep-0484)||
+|[**PEP 485**](http://www.python.org/dev/peps/pep-0485)||
+|[**PEP 486**](http://www.python.org/dev/peps/pep-0486)||
+|[**PEP 488**](http://www.python.org/dev/peps/pep-0488)||
+|[**PEP 489**](http://www.python.org/dev/peps/pep-0489)||
+|[**PEP 492**](http://www.python.org/dev/peps/pep-0492)||
 
 ## 3.4 (17 mars 2014)
 
