@@ -154,12 +154,12 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|[**PEP 384**](https://www.python.org/dev/peps/pep-0384)||
-|[**PEP 389**](https://www.python.org/dev/peps/pep-0389)||
-|[**PEP 391**](https://www.python.org/dev/peps/pep-0391)||
-|[**PEP 3147**](https://www.python.org/dev/peps/pep-3147)||
-|[**PEP 3148**](https://www.python.org/dev/peps/pep-3148)||
-|[**PEP 3149**](https://www.python.org/dev/peps/pep-3149)||
+|[**PEP 384**](https://www.python.org/dev/peps/pep-0384)|Nouvelle API stable pour obtenir des extensions compatibles sur chaque version de Python à partir de la 3.2|
+|[**PEP 389**](https://www.python.org/dev/peps/pep-0389)|Nouveau module `argparse` pour la gestion des arguments et sous-commandes|
+|[**PEP 391**](https://www.python.org/dev/peps/pep-0391)|Configuration de la journalisation basée sur des dictionnaires|
+|[**PEP 3147**](https://www.python.org/dev/peps/pep-3147)|Mise en cache du _bytecode_ dans des fichiers `.pyc`, eux-mêmes localisés dans un répertoire `__pycache__`|
+|[**PEP 3148**](https://www.python.org/dev/peps/pep-3148)|Nouveau module `concurrent.futures` pour la gestion des processus légers (threads) ou des processus|
+|[**PEP 3149**](https://www.python.org/dev/peps/pep-3149)|Marquage des fichiers d'extensions `.so`|
 
 ## 3.1 (26 juin 2009)
 
