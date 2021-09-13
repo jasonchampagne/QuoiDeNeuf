@@ -85,7 +85,7 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|[**PEP 441**](http://www.python.org/dev/peps/pep-0441)||
+|[**PEP 441**](http://www.python.org/dev/peps/pep-0441)|Amélioration du support des archives ZIP contenant du code Python|
 |[**PEP 448**](http://www.python.org/dev/peps/pep-0448)||
 |[**PEP 461**](http://www.python.org/dev/peps/pep-0461)||
 |[**PEP 465**](http://www.python.org/dev/peps/pep-0465)||
