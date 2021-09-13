@@ -48,11 +48,11 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
+|[**PEP 539**](https://www.python.org/dev/peps/pep-0539/)|Nouvelle API C pour le stockage local des threads en CPython|
+|[**PEP 545**](http://www.python.org/dev/peps/pep-0545)|Officialisation des traduction de la documentation en français, japonais et coréen|
+|[**PEP 552**](https://www.python.org/dev/peps/pep-0552/)|Génération des fichiers `.pyc` basée sur un hash|
+|[**PEP 553**](http://www.python.org/dev/peps/pep-0553)|Ajout d'une nouvelle fonction native `breakpoint()`|
+|[**PEP 557**](http://www.python.org/dev/peps/pep-0557)|Ajout d'un module `dataclasses` pour la création d'une classe de données plus concise|
 |[**PEP aaa**]()||
 |[**PEP aaa**]()||
 |[**PEP aaa**]()||
