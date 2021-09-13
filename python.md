@@ -137,16 +137,16 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|[**PEP 362**](http://www.python.org/dev/peps/pep-0362)||
-|[**PEP 380**](http://www.python.org/dev/peps/pep-0380)||
-|[**PEP 393**](http://www.python.org/dev/peps/pep-0393)||
-|[**PEP 397**](http://www.python.org/dev/peps/pep-0397)||
-|[**PEP 405**](http://www.python.org/dev/peps/pep-0405)||
-|[**PEP 409**](http://www.python.org/dev/peps/pep-0409)||
-|[**PEP 412**](http://www.python.org/dev/peps/pep-0412)||
-|[**PEP 414**](http://www.python.org/dev/peps/pep-0414)||
-|[**PEP 418**](http://www.python.org/dev/peps/pep-0418)||
-|[**PEP 420**](http://www.python.org/dev/peps/pep-0420)||
+|[**PEP 362**](http://www.python.org/dev/peps/pep-0362)|Nouvelle fonction `inspect.getsignature()` pour lire la signature d'une fonction|
+|[**PEP 380**](http://www.python.org/dev/peps/pep-0380)|Nouvelle syntaxe pour déléguer à un sous-générateur (`yield from <expr>`)|
+|[**PEP 393**](http://www.python.org/dev/peps/pep-0393)|Optimisation de la représentation des chaînes de caractères|
+|[**PEP 397**](http://www.python.org/dev/peps/pep-0397)|Nouveau lanceur Python pour Windows (exécution avec ou sans console)|
+|[**PEP 405**](http://www.python.org/dev/peps/pep-0405)|Nouveau module `venv` pour la prise en charge des environnements virtuels|
+|[**PEP 409**](http://www.python.org/dev/peps/pep-0409)|Suppression du contexte d'exception|
+|[**PEP 412**](http://www.python.org/dev/peps/pep-0412)|Allègement de la consommation mémoire grâce à l'utilisation de dictionnaires d'attributs|
+|[**PEP 414**](http://www.python.org/dev/peps/pep-0414)|Écriture explicite d'un littéral Unicode pour faciliter la migration de la version 2.7 vers 3.3|
+|[**PEP 418**](http://www.python.org/dev/peps/pep-0418)|Ajout des fonctions `monotonic()`, `perf_counter()` et `process_time()` dans le module `time`|
+|[**PEP 420**](http://www.python.org/dev/peps/pep-0420)|La création d'un module Python ne nécessite plus de fichier `__init__.py`|
 |[**PEP 3151**](http://www.python.org/dev/peps/pep-3151)||
 |[**PEP 3155**](http://www.python.org/dev/peps/pep-3155)||
 
