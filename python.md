@@ -40,3 +40,15 @@
 |[**PEP 578**](https://www.python.org/dev/peps/pep-0578/)||
 |[**PEP 587**](https://www.python.org/dev/peps/pep-0587/)||
 |[**PEP 590**](https://www.python.org/dev/peps/pep-0590/)||
+
+## 3.7 (31 janvier 2018)
+
+|RÉFÉRENCE|DESCRIPTION|
+|:--:|:--|
+|||
+
+## 3.6 (23 décembre 2016)
+
+|RÉFÉRENCE|DESCRIPTION|
+|:--:|:--|
+|||
