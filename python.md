@@ -97,7 +97,7 @@
 |[**PEP 486**](http://www.python.org/dev/peps/pep-0486)||
 |[**PEP 488**](http://www.python.org/dev/peps/pep-0488)||
 |[**PEP 489**](http://www.python.org/dev/peps/pep-0489)||
-|[**PEP 492**](http://www.python.org/dev/peps/pep-0492)||
+|[**PEP 492**](http://www.python.org/dev/peps/pep-0492)|Coroutines utilisant la syntaxe `async` et `await` (module `asyncio`)|
 
 ## 3.4 (17 mars 2014)
 
