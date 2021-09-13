@@ -1,7 +1,7 @@
 # Nouveautés Python
 
-**SOMMAIRE**
-+ [Python 3.10](#310-à-venir)
+> **SOMMAIRE**
+> + [Python 3.10](#310-à-venir)
 
 ---
 
