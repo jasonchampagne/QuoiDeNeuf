@@ -147,8 +147,8 @@
 |[**PEP 414**](http://www.python.org/dev/peps/pep-0414)|Écriture explicite d'un littéral Unicode pour faciliter la migration de la version 2.7 vers 3.3|
 |[**PEP 418**](http://www.python.org/dev/peps/pep-0418)|Ajout des fonctions `monotonic()`, `perf_counter()` et `process_time()` dans le module `time`|
 |[**PEP 420**](http://www.python.org/dev/peps/pep-0420)|La création d'un module Python ne nécessite plus de fichier `__init__.py`|
-|[**PEP 3151**](http://www.python.org/dev/peps/pep-3151)||
-|[**PEP 3155**](http://www.python.org/dev/peps/pep-3155)||
+|[**PEP 3151**](http://www.python.org/dev/peps/pep-3151)|Simplification de la hiérarchie des exceptions liées à l'OS et aux entrées/sorties|
+|[**PEP 3155**](http://www.python.org/dev/peps/pep-3155)|Nouvel attribut `__qualname__` (classes et fonctions) qui représente le chemin depuis le module de plus haut niveau jusqu'à leur définition|
 
 ## 3.2 (20 février 2011)
 
