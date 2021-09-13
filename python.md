@@ -126,8 +126,8 @@
 |[**PEP 445**](http://www.python.org/dev/peps/pep-0445)|Nouvelle API C pour la configuration d'allocateurs mémoires|
 |[**PEP 446**](http://www.python.org/dev/peps/pep-0446)|Les fichiers et sockets nouvellement créés sont marqués comme non héritables par défaut dans les sous-processus|
 |[**PEP 450**](http://www.python.org/dev/peps/pep-0450)|Ajout du module `statistics` pour calculer des statistiques provenant de données numériques|
-|[**PEP 451**](http://www.python.org/dev/peps/pep-0451)||
-|[**PEP 453**](http://www.python.org/dev/peps/pep-0453)||
+|[**PEP 451**](http://www.python.org/dev/peps/pep-0451)|Nouveau type `ModuleSpec` pour le système d’importation|
+|[**PEP 453**](http://www.python.org/dev/peps/pep-0453)|Nouveau module `ensurepip` pour l'installation groupée du gestionnaire de paquets PIP|
 |[**PEP 454**](http://www.python.org/dev/peps/pep-0454)||
 |[**PEP 456**](http://www.python.org/dev/peps/pep-0456)||
 |[**PEP 3154**](http://www.python.org/dev/peps/pep-3154)||
