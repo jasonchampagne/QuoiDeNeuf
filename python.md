@@ -23,8 +23,8 @@
 |[**PEP 573**](https://www.python.org/dev/peps/pep-0573/)|Accès à l'état du module à partir des méthodes d'extension C|
 |[**PEP 584**](https://www.python.org/dev/peps/pep-0584/)|Ajout d'un opérateur d'union (`\|`) aux dictionnaires (`dict`)|
 |[**PEP 585**](https://www.python.org/dev/peps/pep-0585/)|Typage générique sur les types natifs|
-|[**PEP 593**](https://www.python.org/dev/peps/pep-0593/)|Annotations flexibles de fonctions et de variables|
-|[**PEP 602**](https://www.python.org/dev/peps/pep-0602/)||
+|[**PEP 593**](https://www.python.org/dev/peps/pep-0593/)|Annotation flexible des fonctions et des variables|
+|[**PEP 602**](https://www.python.org/dev/peps/pep-0602/)|Cycle de publication annuel pour Python|
 |[**PEP 614**](https://www.python.org/dev/peps/pep-0614/)||
 |[**PEP 615**](https://www.python.org/dev/peps/pep-0615/)||
 |[**PEP 616**](https://www.python.org/dev/peps/pep-0616/)||
