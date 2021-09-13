@@ -95,7 +95,7 @@
 |[**PEP 484**](http://www.python.org/dev/peps/pep-0484)||
 |[**PEP 485**](http://www.python.org/dev/peps/pep-0485)||
 |[**PEP 486**](http://www.python.org/dev/peps/pep-0486)||
-|[**PEP 488**](http://www.python.org/dev/peps/pep-0488)||
+|[**PEP 488**](http://www.python.org/dev/peps/pep-0488)|Suppression des fichiers `.pyo`|
 |[**PEP 489**](http://www.python.org/dev/peps/pep-0489)|Nouveau mécanisme amélioré pour le chargement des modules d'extension|
 |[**PEP 492**](http://www.python.org/dev/peps/pep-0492)|Coroutines utilisant la syntaxe `async` et `await` (module `asyncio`)|
 
