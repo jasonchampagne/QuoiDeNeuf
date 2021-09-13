@@ -93,7 +93,7 @@
 |[**PEP 475**](http://www.python.org/dev/peps/pep-0475)||
 |[**PEP 479**](http://www.python.org/dev/peps/pep-0479)||
 |[**PEP 484**](http://www.python.org/dev/peps/pep-0484)||
-|[**PEP 485**](http://www.python.org/dev/peps/pep-0485)||
+|[**PEP 485**](http://www.python.org/dev/peps/pep-0485)|Ajout de la fonction `math.isclose()` pour tester l'égalité approximative|
 |[**PEP 486**](http://www.python.org/dev/peps/pep-0486)|Détection des environnements virtuels pour le lanceur Python de Windows|
 |[**PEP 488**](http://www.python.org/dev/peps/pep-0488)|Suppression des fichiers `.pyo`|
 |[**PEP 489**](http://www.python.org/dev/peps/pep-0489)|Nouveau mécanisme amélioré pour le chargement des modules d'extension|
