@@ -37,7 +37,7 @@
 |[**PEP 570**](https://www.python.org/dev/peps/pep-0570/)|Paramètres positionnels imposés|
 |[**PEP 572**](https://www.python.org/dev/peps/pep-0572/)|Expressions d'affectation|
 |[**PEP 574**](https://www.python.org/dev/peps/pep-0574/)||
-|[**PEP 578**](https://www.python.org/dev/peps/pep-0578/)||
+|[**PEP 578**](https://www.python.org/dev/peps/pep-0578/)|Crochet (_hook_) d'audit de l'exécution de Python|
 |[**PEP 587**](https://www.python.org/dev/peps/pep-0587/)|Configuration de l'initialisation de Python|
 |[**PEP 590**](https://www.python.org/dev/peps/pep-0590/)|Protocole d'appel rapide pour CPython (`VectorCall`)|
 
