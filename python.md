@@ -139,7 +139,11 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|||
+|[**PEP 384**](http://www.python.org/dev/peps/pep-0384)||
+|[**PEP 391**](http://www.python.org/dev/peps/pep-0391)||
+|[**PEP 3147**](http://www.python.org/dev/peps/pep-3147)||
+|[**PEP 3148**](http://www.python.org/dev/peps/pep-3148)||
+|[**PEP 3149**](http://www.python.org/dev/peps/pep-3149)||
 
 ## 3.1 (26 juin 2009)
 
