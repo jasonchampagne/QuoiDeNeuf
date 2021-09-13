@@ -125,7 +125,7 @@
 |[**PEP 443**](http://www.python.org/dev/peps/pep-0443)|Ajout d'un envoi unique (_single-dispatch_) générique pour les fonctions dans `functools`|
 |[**PEP 445**](http://www.python.org/dev/peps/pep-0445)|Nouvelle API C pour la configuration d'allocateurs mémoires|
 |[**PEP 446**](http://www.python.org/dev/peps/pep-0446)|Les fichiers et sockets nouvellement créés sont marqués comme non héritables par défaut dans les sous-processus|
-|[**PEP 450**](http://www.python.org/dev/peps/pep-0450)||
+|[**PEP 450**](http://www.python.org/dev/peps/pep-0450)|Ajout du module `statistics` pour calculer des statistiques provenant de données numériques|
 |[**PEP 451**](http://www.python.org/dev/peps/pep-0451)||
 |[**PEP 453**](http://www.python.org/dev/peps/pep-0453)||
 |[**PEP 454**](http://www.python.org/dev/peps/pep-0454)||
