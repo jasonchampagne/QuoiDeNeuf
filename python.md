@@ -38,7 +38,7 @@
 |[**PEP 572**](https://www.python.org/dev/peps/pep-0572/)|Expressions d'affectation, notamment avec l'ajout du nouveau opérateur `:=`|
 |[**PEP 574**](https://www.python.org/dev/peps/pep-0574/)|Nouvelle version (5) du protocole `pickle` avec prise en charge des tampons hors-bande|
 |[**PEP 578**](https://www.python.org/dev/peps/pep-0578/)|Crochet (_hook_) d'audit de l'exécution de Python|
-|[**PEP 587**](https://www.python.org/dev/peps/pep-0587/)|Configuration de l'initialisation de Python|
+|[**PEP 587**](https://www.python.org/dev/peps/pep-0587/)|Nouvelle API C pour configurer l'initialisation de Python|
 |[**PEP 590**](https://www.python.org/dev/peps/pep-0590/)|Protocole d'appel rapide pour CPython (`VectorCall`)|
 
 ## 3.7 (31 janvier 2018)
