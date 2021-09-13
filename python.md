@@ -118,7 +118,7 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|[**PEP 428**](http://www.python.org/dev/peps/pep-0428)||
+|[**PEP 428**](http://www.python.org/dev/peps/pep-0428)|Ajout du module `pathlib` pour la gestion des chemins d'accès au système de fichiers et opérations courantes sur les chemins|
 |[**PEP 435**](http://www.python.org/dev/peps/pep-0435)||
 |[**PEP 436**](http://www.python.org/dev/peps/pep-0436)||
 |[**PEP 442**](http://www.python.org/dev/peps/pep-0442)||
