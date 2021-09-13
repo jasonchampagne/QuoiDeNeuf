@@ -40,9 +40,9 @@
 |[**PEP 578**](https://www.python.org/dev/peps/pep-0578/)|Crochet (_hook_) d'audit de l'exécution de Python|
 |[**PEP 586**](https://www.python.org/dev/peps/pep-0586/)|Ajout de l'annotation de type `Literal`|
 |[**PEP 587**](https://www.python.org/dev/peps/pep-0587/)|Nouvelle API C pour configurer l'initialisation de Python|
-|[**PEP 589**](https://www.python.org/dev/peps/pep-0589/)||
+|[**PEP 589**](https://www.python.org/dev/peps/pep-0589/)|Ajout de l'annotation de type `TypedDict`|
 |[**PEP 590**](https://www.python.org/dev/peps/pep-0590/)|Protocole d'appel rapide pour CPython (`VectorCall`)|
-|[**PEP 591**](https://www.python.org/dev/peps/pep-0591/)||
+|[**PEP 591**](https://www.python.org/dev/peps/pep-0591/)|Ajout de l'annotation de type `Final`|
 
 ## 3.7 (31 janvier 2018)
 
