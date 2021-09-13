@@ -89,10 +89,10 @@
 |[**PEP 448**](http://www.python.org/dev/peps/pep-0448)||
 |[**PEP 461**](http://www.python.org/dev/peps/pep-0461)||
 |[**PEP 465**](http://www.python.org/dev/peps/pep-0465)||
-|[**PEP 471**](http://www.python.org/dev/peps/pep-0471)||
-|[**PEP 475**](http://www.python.org/dev/peps/pep-0475)||
-|[**PEP 479**](http://www.python.org/dev/peps/pep-0479)||
-|[**PEP 484**](http://www.python.org/dev/peps/pep-0484)||
+|[**PEP 471**](http://www.python.org/dev/peps/pep-0471)|Nouvelle fonction rapide de parcours des répertoires (`os.scandir()`)|
+|[**PEP 475**](http://www.python.org/dev/peps/pep-0475)|Prise en charge de la répétition automatique des appels système interrompus|
+|[**PEP 479**](http://www.python.org/dev/peps/pep-0479)|Modification de la gestion de `StopIteration` dans les générateurs|
+|[**PEP 484**](http://www.python.org/dev/peps/pep-0484)|Nouvelle norme pour les annotations de type (module `typing`)|
 |[**PEP 485**](http://www.python.org/dev/peps/pep-0485)|Ajout de la fonction `math.isclose()` pour tester l'égalité approximative|
 |[**PEP 486**](http://www.python.org/dev/peps/pep-0486)|Détection des environnements virtuels pour le lanceur Python de Windows|
 |[**PEP 488**](http://www.python.org/dev/peps/pep-0488)|Suppression des fichiers `.pyo`|
