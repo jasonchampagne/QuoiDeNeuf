@@ -68,7 +68,7 @@
 |[**PEP 487**](https://www.python.org/dev/peps/pep-0487/)|Personnalisation simplifiée pour la création des classes|
 |[**PEP 495**](https://www.python.org/dev/peps/pep-0495/)|Moins d'ambiguïtés pour l'heure locale|
 |[**PEP 498**](https://www.python.org/dev/peps/pep-0498/)|Nouveau formatage de chaîne (_f-string_)|
-|[**PEP aaa**]()||
+|[**PEP 506**](https://www.python.org/dev/peps/pep-0506/)|Ajout d'un module pour les fonctions courantes de sécurité (ex : génération de jetons) à la bibliothèque standard|
 |[**PEP aaa**]()||
 |[**PEP aaa**]()||
 |[**PEP aaa**]()||
