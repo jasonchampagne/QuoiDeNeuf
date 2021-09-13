@@ -34,8 +34,9 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|||
-|||
-|||
-|||
-|||
+|[**PEP 570**](https://www.python.org/dev/peps/pep-0570/)||
+|[**PEP 572**](https://www.python.org/dev/peps/pep-0572/)||
+|[**PEP 574**](https://www.python.org/dev/peps/pep-0574/)||
+|[**PEP 578**](https://www.python.org/dev/peps/pep-0578/)||
+|[**PEP 587**](https://www.python.org/dev/peps/pep-0587/)||
+|[**PEP 590**](https://www.python.org/dev/peps/pep-0590/)||
