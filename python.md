@@ -67,7 +67,7 @@
 |[**PEP 468**](https://www.python.org/dev/peps/pep-0468/)|Préservation de l'ordre des `**kwargs` dans une fonction|
 |[**PEP 487**](https://www.python.org/dev/peps/pep-0487/)|Personnalisation simplifiée pour la création des classes|
 |[**PEP 495**](https://www.python.org/dev/peps/pep-0495/)|Moins d'ambiguïtés pour l'heure locale|
-|[**PEP aaa**]()||
+|[**PEP 498**](https://www.python.org/dev/peps/pep-0498/)|Nouveau formatage de chaîne (_f-string_)|
 |[**PEP aaa**]()||
 |[**PEP aaa**]()||
 |[**PEP aaa**]()||
