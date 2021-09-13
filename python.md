@@ -44,7 +44,7 @@
 |[**PEP 590**](https://www.python.org/dev/peps/pep-0590/)|Protocole d'appel rapide pour CPython (`VectorCall`)|
 |[**PEP 591**](https://www.python.org/dev/peps/pep-0591/)|Ajout de l'annotation de type `Final`|
 
-## 3.7 (31 janvier 2018)
+## 3.7 (27 juin 2018)
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
