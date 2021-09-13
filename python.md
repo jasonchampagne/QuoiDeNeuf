@@ -28,4 +28,4 @@
 |[**PEP 614**](https://www.python.org/dev/peps/pep-0614/)|Assouplissement des restrictions sur les décorateurs|
 |[**PEP 615**](https://www.python.org/dev/peps/pep-0615/)|Prise en charge de la base de données des fuseaux horaires de l'IANA dans la bibliothèque standard|
 |[**PEP 616**](https://www.python.org/dev/peps/pep-0616/)|Nouvelles méthodes (`removeprefix` et `removesuffix`) pour supprimer un préfixe ou un suffixe dans une chaîne|
-|[**PEP 617**](https://www.python.org/dev/peps/pep-0617/)||
+|[**PEP 617**](https://www.python.org/dev/peps/pep-0617/)|Nouvel analyseur PEG pour CPython|
