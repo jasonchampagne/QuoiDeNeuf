@@ -122,7 +122,18 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|||
+|[**PEP 362**](http://www.python.org/dev/peps/pep-0362)||
+|[**PEP 380**](http://www.python.org/dev/peps/pep-0380)||
+|[**PEP 393**](http://www.python.org/dev/peps/pep-0393)||
+|[**PEP 397**](http://www.python.org/dev/peps/pep-0397)||
+|[**PEP 405**](http://www.python.org/dev/peps/pep-0405)||
+|[**PEP 409**](http://www.python.org/dev/peps/pep-0409)||
+|[**PEP 412**](http://www.python.org/dev/peps/pep-0412)||
+|[**PEP 414**](http://www.python.org/dev/peps/pep-0414)||
+|[**PEP 418**](http://www.python.org/dev/peps/pep-0418)||
+|[**PEP 420**](http://www.python.org/dev/peps/pep-0420)||
+|[**PEP 3151**](http://www.python.org/dev/peps/pep-3151)||
+|[**PEP 3155**](http://www.python.org/dev/peps/pep-3155)||
 
 ## 3.2 (20 février 2011)
 
