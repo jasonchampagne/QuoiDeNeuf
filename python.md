@@ -130,8 +130,8 @@
 |[**PEP 453**](http://www.python.org/dev/peps/pep-0453)|Nouveau module `ensurepip` pour l'installation groupée du gestionnaire de paquets PIP|
 |[**PEP 454**](http://www.python.org/dev/peps/pep-0454)|Nouveau module `tracemalloc` pour le traçage des allocations de mémoire|
 |[**PEP 456**](http://www.python.org/dev/peps/pep-0456)|Nouvel algorithme de hachage (SipHash) pour les chaînes de caractères et les données binaires|
-|[**PEP 3154**](http://www.python.org/dev/peps/pep-3154)||
-|[**PEP 3156**](http://www.python.org/dev/peps/pep-3156)||
+|[**PEP 3154**](http://www.python.org/dev/peps/pep-3154)|Nouveau protocole de sérialisation pour le module `pickle`|
+|[**PEP 3156**](http://www.python.org/dev/peps/pep-3156)|Nouveau module `asyncio` pour les traitements asynchrones|
 
 ## 3.3 (29 septembre 2012)
 
