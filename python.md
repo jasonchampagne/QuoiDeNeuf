@@ -165,7 +165,7 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|[**PEP 372**](https://www.python.org/dev/peps/pep-0372/)|Nouveau type `odict` pour la création de dictionnaires ordonnés qui conserve l'ordre d'insertion|
+|[**PEP 372**](https://www.python.org/dev/peps/pep-0372/)|Nouveau type `odict` pour la création de dictionnaires ordonnés qui conservent l'ordre d'insertion|
 
 ## 3.0 (3 décembre 2008)
 
