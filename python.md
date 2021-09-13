@@ -70,16 +70,16 @@
 |[**PEP 498**](https://www.python.org/dev/peps/pep-0498/)|Nouveau formatage de chaîne (_f-string_)|
 |[**PEP 506**](https://www.python.org/dev/peps/pep-0506/)|Ajout d'un module `secrets` à la bibliothèque standard (génération plus sûre de nombres aléatoires)|
 |[**PEP 509**](https://www.python.org/dev/peps/pep-0509/)|Dictionnaires versionnés|
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
-|[**PEP aaa**]()||
+|[**PEP 515**](https://www.python.org/dev/peps/pep-0515/)|Utilisation du tiret du bas (`_`) comme sépérateur des nombres littéraux|
+|[**PEP 519**](https://www.python.org/dev/peps/pep-0519/)|Ajout d'un protocole de chemin d'accès aux fichiers|
+|[**PEP 520**](https://www.python.org/dev/peps/pep-0520/)|Préservation de l'ordre de définition des attributs d'une classe|
+|[**PEP 523**](https://www.python.org/dev/peps/pep-0523/)|Ajout d'une API d'évaluation de trame à CPython|
+|[**PEP 524**](https://www.python.org/dev/peps/pep-0524/)|La fonction `os.urandom()` devient bloquante sous GNU/Linux|
+|[**PEP 525**](https://www.python.org/dev/peps/pep-0525/)|Générateurs asynchrones|
+|[**PEP 526**](https://www.python.org/dev/peps/pep-0526/)|Annotation des variables|
+|[**PEP 528**](https://www.python.org/dev/peps/pep-0528/)|Utilisation de l'encodage UTF-8 pour la console Windows|
+|[**PEP 529**](https://www.python.org/dev/peps/pep-0529/)|Utilisation de l'encodage UTF-8 pour les chemins de fichiers sur Windows|
+|[**PEP 530**](https://www.python.org/dev/peps/pep-0530/)|Liste en compréhension asynchrone|
 
 ## 3.5 (13 septembre 2015)
 
