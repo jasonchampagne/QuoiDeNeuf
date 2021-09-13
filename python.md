@@ -88,7 +88,7 @@
 |[**PEP 441**](http://www.python.org/dev/peps/pep-0441)|Amélioration du support des archives ZIP contenant du code Python|
 |[**PEP 448**](http://www.python.org/dev/peps/pep-0448)||
 |[**PEP 461**](http://www.python.org/dev/peps/pep-0461)||
-|[**PEP 465**](http://www.python.org/dev/peps/pep-0465)||
+|[**PEP 465**](http://www.python.org/dev/peps/pep-0465)|Opérateur infixe dédié (`@`) pour la multiplication de matrices|
 |[**PEP 471**](http://www.python.org/dev/peps/pep-0471)|Nouvelle fonction rapide de parcours des répertoires : `os.scandir()`|
 |[**PEP 475**](http://www.python.org/dev/peps/pep-0475)|Prise en charge de la répétition automatique des appels système interrompus|
 |[**PEP 479**](http://www.python.org/dev/peps/pep-0479)|Modification de la gestion de `StopIteration` dans les générateurs|
