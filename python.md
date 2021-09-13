@@ -36,7 +36,7 @@
 |:--:|:--|
 |[**PEP 570**](https://www.python.org/dev/peps/pep-0570/)|Paramètres spécifiés uniquement par leur position|
 |[**PEP 572**](https://www.python.org/dev/peps/pep-0572/)|Expressions d'affectation|
-|[**PEP 574**](https://www.python.org/dev/peps/pep-0574/)|Nouvelle version du protocole `pickle`|
+|[**PEP 574**](https://www.python.org/dev/peps/pep-0574/)|Nouvelle version du protocole `pickle` avec prise en charge des tampons hors-bande|
 |[**PEP 578**](https://www.python.org/dev/peps/pep-0578/)|Crochet (_hook_) d'audit de l'exécution de Python|
 |[**PEP 587**](https://www.python.org/dev/peps/pep-0587/)|Configuration de l'initialisation de Python|
 |[**PEP 590**](https://www.python.org/dev/peps/pep-0590/)|Protocole d'appel rapide pour CPython (`VectorCall`)|
