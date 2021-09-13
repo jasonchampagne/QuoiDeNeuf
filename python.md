@@ -11,7 +11,7 @@
 |[**PEP 618**](https://www.python.org/dev/peps/pep-0618/)|Ajout d'une vérification optionelle de la longueur pour `zip`|
 |[**PEP 623**](https://www.python.org/dev/peps/pep-0623/)|Suppression de `wstr` dans l'implémentation d'Unicode (`PyUnicodeObject`)|
 |[**PEP 624**](https://www.python.org/dev/peps/pep-0624/)|Suppression des API d'encodage `Py_UNICODE`|
-|[**PEP 626**](https://www.python.org/dev/peps/pep-0626/)|Davantage de précision quant aux numérox de ligne pour le débogage et d'autres outils|
+|[**PEP 626**](https://www.python.org/dev/peps/pep-0626/)|Davantage de précision quant aux numéros de ligne pour le débogage et d'autres outils|
 |[**PEP 632**](https://www.python.org/dev/peps/pep-0632/)|Dépréciation du module `distutils`|
 |[**PEP 634**](https://www.python.org/dev/peps/pep-0634/)<br>[**PEP 635**](https://www.python.org/dev/peps/pep-0635/)<br>[**PEP 636**](https://www.python.org/dev/peps/pep-0636/)|Filtrage par motif avec l'ajout du mot-clé `match`|
 |[**PEP 644**](https://www.python.org/dev/peps/pep-0644/)|Nécessité d'OpenSSL 1.1.1 ou une version plus récente|
