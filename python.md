@@ -20,12 +20,12 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|[**PEP 573**](https://www.python.org/dev/peps/pep-0573/)||
+|[**PEP 584**](https://www.python.org/dev/peps/pep-0584/)||
+|[**PEP 585**](https://www.python.org/dev/peps/pep-0585/)||
+|[**PEP 593**](https://www.python.org/dev/peps/pep-0593/)||
+|[**PEP 602**](https://www.python.org/dev/peps/pep-0602/)||
+|[**PEP 614**](https://www.python.org/dev/peps/pep-0614/)||
+|[**PEP 615**](https://www.python.org/dev/peps/pep-0615/)||
+|[**PEP 616**](https://www.python.org/dev/peps/pep-0616/)||
+|[**PEP 617**](https://www.python.org/dev/peps/pep-0617/)||
