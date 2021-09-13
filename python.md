@@ -64,7 +64,7 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|[**PEP 468**](https://www.python.org/dev/peps/pep-0468/)|Préservation de l'ordre des **kwargs dans une fonction|
+|[**PEP 468**](https://www.python.org/dev/peps/pep-0468/)|Préservation de l'ordre des `**kwargs` dans une fonction|
 |[**PEP aaa**]()||
 |[**PEP aaa**]()||
 |[**PEP aaa**]()||
