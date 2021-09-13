@@ -128,8 +128,8 @@
 |[**PEP 450**](http://www.python.org/dev/peps/pep-0450)|Ajout du module `statistics` pour calculer des statistiques provenant de données numériques|
 |[**PEP 451**](http://www.python.org/dev/peps/pep-0451)|Nouveau type `ModuleSpec` pour le système d’importation|
 |[**PEP 453**](http://www.python.org/dev/peps/pep-0453)|Nouveau module `ensurepip` pour l'installation groupée du gestionnaire de paquets PIP|
-|[**PEP 454**](http://www.python.org/dev/peps/pep-0454)||
-|[**PEP 456**](http://www.python.org/dev/peps/pep-0456)||
+|[**PEP 454**](http://www.python.org/dev/peps/pep-0454)|Nouveau module `tracemalloc` pour le traçage des allocations de mémoire|
+|[**PEP 456**](http://www.python.org/dev/peps/pep-0456)|Nouvel algorithme de hachage (SipHash) pour les chaînes de caractères et les données binaires|
 |[**PEP 3154**](http://www.python.org/dev/peps/pep-3154)||
 |[**PEP 3156**](http://www.python.org/dev/peps/pep-3156)||
 
