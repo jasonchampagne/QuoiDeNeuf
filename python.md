@@ -103,7 +103,20 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|||
+|[**PEP 428**](http://www.python.org/dev/peps/pep-0428)||
+|[**PEP 435**](http://www.python.org/dev/peps/pep-0435)||
+|[**PEP 436**](http://www.python.org/dev/peps/pep-0436)||
+|[**PEP 442**](http://www.python.org/dev/peps/pep-0442)||
+|[**PEP 443**](http://www.python.org/dev/peps/pep-0443)||
+|[**PEP 445**](http://www.python.org/dev/peps/pep-0445)||
+|[**PEP 446**](http://www.python.org/dev/peps/pep-0446)||
+|[**PEP 450**](http://www.python.org/dev/peps/pep-0450)||
+|[**PEP 451**](http://www.python.org/dev/peps/pep-0451)||
+|[**PEP 453**](http://www.python.org/dev/peps/pep-0453)||
+|[**PEP 454**](http://www.python.org/dev/peps/pep-0454)||
+|[**PEP 456**](http://www.python.org/dev/peps/pep-0456)||
+|[**PEP 3154**](http://www.python.org/dev/peps/pep-3154)||
+|[**PEP 3156**](http://www.python.org/dev/peps/pep-3156)||
 
 ## 3.3 (29 septembre 2012)
 
