@@ -172,4 +172,10 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|||
+|[**PEP 237**](https://www.python.org/dev/peps/pep-0237/)|Renommage du type `long` en `int` pour représenter des entiers|
+|[**PEP 238**](https://www.python.org/dev/peps/pep-0238/)|Changement sur l'opérateur de division (`/` : résultat en flottant, `//` : résultat sous forme d'entier)|
+|[**PEP aaa**](dddd)||
+|[**PEP aaa**](dddd)||
+|[**PEP aaa**](dddd)||
+|[**PEP aaa**](dddd)||
+|[**PEP 3105**](https://www.python.org/dev/peps/pep-3105/)|L'instruction `print` a été remplacée par une fonction `print()`|
