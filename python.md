@@ -121,9 +121,9 @@
 |[**PEP 428**](http://www.python.org/dev/peps/pep-0428)|Nouvelle API orientée objet (`pathlib`) de manipulation de chemins du système de fichiers|
 |[**PEP 435**](http://www.python.org/dev/peps/pep-0435)|Ajout d'une implémentation standard de types énumérés (module `enum`)|
 |[**PEP 436**](http://www.python.org/dev/peps/pep-0436)|Introspection complète des fonctions et méthodes implémentées en C (_The Argument Clinic DSL_)|
-|[**PEP 442**](http://www.python.org/dev/peps/pep-0442)||
-|[**PEP 443**](http://www.python.org/dev/peps/pep-0443)||
-|[**PEP 445**](http://www.python.org/dev/peps/pep-0445)||
+|[**PEP 442**](http://www.python.org/dev/peps/pep-0442)|Amélioration de la sémantique pour la destruction des objets (_safe object finalization_)|
+|[**PEP 443**](http://www.python.org/dev/peps/pep-0443)|Ajout d'un envoi unique (_single-dispatch_) générique pour les fonctions dans `functools`|
+|[**PEP 445**](http://www.python.org/dev/peps/pep-0445)|Nouvelle API C pour la configuration d'allocateurs mémoires|
 |[**PEP 446**](http://www.python.org/dev/peps/pep-0446)||
 |[**PEP 450**](http://www.python.org/dev/peps/pep-0450)||
 |[**PEP 451**](http://www.python.org/dev/peps/pep-0451)||
