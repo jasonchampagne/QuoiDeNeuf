@@ -102,7 +102,7 @@
 |:--:|:--|
 |[**PEP 441**](http://www.python.org/dev/peps/pep-0441)|Amélioration du support des archives ZIP contenant du code Python|
 |[**PEP 448**](http://www.python.org/dev/peps/pep-0448)||
-|[**PEP 461**](http://www.python.org/dev/peps/pep-0461)||
+|[**PEP 461**](http://www.python.org/dev/peps/pep-0461)|Ajout du formatage `%` aux octets et tableau d'octets (_bytearray_)|
 |[**PEP 465**](http://www.python.org/dev/peps/pep-0465)|Nouvel opérateur (`@`) pour la multiplication de matrices|
 |[**PEP 471**](http://www.python.org/dev/peps/pep-0471)|Nouvelle fonction rapide de parcours des répertoires : `os.scandir()`|
 |[**PEP 475**](http://www.python.org/dev/peps/pep-0475)|Prise en charge de la répétition automatique des appels système interrompus|
