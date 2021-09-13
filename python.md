@@ -20,8 +20,8 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|[**PEP 573**](https://www.python.org/dev/peps/pep-0573/)||
-|[**PEP 584**](https://www.python.org/dev/peps/pep-0584/)||
+|[**PEP 573**](https://www.python.org/dev/peps/pep-0573/)|Accès à l'état du module à partir des méthodes d'extension C|
+|[**PEP 584**](https://www.python.org/dev/peps/pep-0584/)|Ajout d'un opérateur d'union (`|`) aux dictionnaires (`dict`)|
 |[**PEP 585**](https://www.python.org/dev/peps/pep-0585/)||
 |[**PEP 593**](https://www.python.org/dev/peps/pep-0593/)||
 |[**PEP 602**](https://www.python.org/dev/peps/pep-0602/)||
