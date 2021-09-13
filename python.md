@@ -25,7 +25,7 @@
 |[**PEP 585**](https://www.python.org/dev/peps/pep-0585/)|Typage générique sur les types natifs|
 |[**PEP 593**](https://www.python.org/dev/peps/pep-0593/)|Annotation flexible des fonctions et des variables|
 |[**PEP 602**](https://www.python.org/dev/peps/pep-0602/)|Cycle de publication annuel pour Python|
-|[**PEP 614**](https://www.python.org/dev/peps/pep-0614/)||
+|[**PEP 614**](https://www.python.org/dev/peps/pep-0614/)|Assouplissement des restrictions sur les décorateurs|
 |[**PEP 615**](https://www.python.org/dev/peps/pep-0615/)||
 |[**PEP 616**](https://www.python.org/dev/peps/pep-0616/)||
 |[**PEP 617**](https://www.python.org/dev/peps/pep-0617/)||
