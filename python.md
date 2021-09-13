@@ -166,6 +166,7 @@
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
 |[**PEP 372**](https://www.python.org/dev/peps/pep-0372/)|Nouveau type `odict` pour la création de dictionnaires ordonnés qui conservent l'ordre d'insertion|
+|[**PEP 378**](https://www.python.org/dev/peps/pep-0378/)|Utilisation de `,` comme séparateur de milliers pour un nombre|
 
 ## 3.0 (3 décembre 2008)
 
