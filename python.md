@@ -34,7 +34,7 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|[**PEP 570**](https://www.python.org/dev/peps/pep-0570/)|Paramètres positionnels imposés|
+|[**PEP 570**](https://www.python.org/dev/peps/pep-0570/)|Paramètres spécifiés uniquement par leur position|
 |[**PEP 572**](https://www.python.org/dev/peps/pep-0572/)|Expressions d'affectation|
 |[**PEP 574**](https://www.python.org/dev/peps/pep-0574/)||
 |[**PEP 578**](https://www.python.org/dev/peps/pep-0578/)|Crochet (_hook_) d'audit de l'exécution de Python|
