@@ -192,10 +192,3 @@
 |[**PEP 3131**](https://www.python.org/dev/peps/pep-3131/)|Support des lettres non-ASCII comme identifiants|
 |[**PEP 3132**](https://www.python.org/dev/peps/pep-3132/)|Séparation étendue d'un itérable|
 |[**PEP 3134**](https://www.python.org/dev/peps/pep-3134/)|Enchaînement d'exceptions et traçabilité intégrée|
-|[**PEP aaa**](dddd)||
-|[**PEP aaa**](dddd)||
-|[**PEP aaa**](dddd)||
-|[**PEP aaa**](dddd)||
-|[**PEP aaa**](dddd)||
-|[**PEP aaa**](dddd)||
-|[**PEP aaa**](dddd)||
