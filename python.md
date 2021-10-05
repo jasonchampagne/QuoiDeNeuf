@@ -1,7 +1,8 @@
 # Nouveautés Python
 
 > **SOMMAIRE**
-> + [Python 3.10](#310-à-venir)
+> + [Python 3.11](#311)
+> + [Python 3.10](#310)
 > + [Python 3.9](#39-5-octobre-2020)
 > + [Python 3.9](#38-14-octobre-2019)
 > + [Python 3.7](#37-27-juin-2018)
@@ -15,7 +16,11 @@
 
 ---
 
-## 3.10 (_à venir_)
+## 3.11
+
+À venir...
+
+## 3.10
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
