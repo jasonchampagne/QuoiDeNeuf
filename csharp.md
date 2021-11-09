@@ -20,7 +20,11 @@
 
 ## 9.0 (2020)
 
+> [What's new in C# 9.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
+
 ## 8.0 (2019)
+
+> [What's new in C# 8.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8)
 
 ## 7.0 (2016)
 
