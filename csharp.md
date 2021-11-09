@@ -16,7 +16,7 @@
 
 ## 10.0 (2021)
 
-> .NET 6
+> [What's new in C# 10](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
 
 ## 9.0 (2020)
 
