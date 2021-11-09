@@ -1,18 +1,18 @@
 # Nouveautés Python
 
 > **SOMMAIRE**
-> + [Python 3.11](#311)
-> + [Python 3.10](#310)
-> + [Python 3.9](#39-5-octobre-2020)
-> + [Python 3.9](#38-14-octobre-2019)
-> + [Python 3.7](#37-27-juin-2018)
-> + [Python 3.6](#36-23-décembre-2016)
-> + [Python 3.5](#35-13-septembre-2015)
-> + [Python 3.4](#34-17-mars-2014)
-> + [Python 3.3](#33-29-septembre-2012)
-> + [Python 3.2](#32-20-février-2011)
-> + [Python 3.1](#31-26-juin-2009)
-> + [Python 3.0](#30-3-décembre-2008)
+> + [3.11](#311)
+> + [3.10](#310-4-octobre-2021)
+> + [3.9](#39-5-octobre-2020)
+> + [3.9](#38-14-octobre-2019)
+> + [3.7](#37-27-juin-2018)
+> + [3.6](#36-23-décembre-2016)
+> + [3.5](#35-13-septembre-2015)
+> + [3.4](#34-17-mars-2014)
+> + [3.3](#33-29-septembre-2012)
+> + [3.2](#32-20-février-2011)
+> + [3.1](#31-26-juin-2009)
+> + [3.0](#30-3-décembre-2008)
 
 ---
 
@@ -20,7 +20,7 @@
 
 À venir...
 
-## 3.10
+## 3.10 (4 octobre 2021)
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
