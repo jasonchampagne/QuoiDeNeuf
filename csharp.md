@@ -28,6 +28,8 @@
 
 ## 7.0 (2016)
 
+> [What's new in C# 7.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7)
+
 ## 6.0 (2015)
 
 ## 5.0 (2012)
