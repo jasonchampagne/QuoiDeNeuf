@@ -9,4 +9,4 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|||
+|[**RFC**](https://wiki.php.net/rfc/enumerations)|Énumérations|
