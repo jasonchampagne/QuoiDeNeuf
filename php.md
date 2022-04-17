@@ -10,3 +10,4 @@
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
 |[**RFC**](https://wiki.php.net/rfc/enumerations)|Énumérations|
+|[**RFC**](https://wiki.php.net/rfc/readonly_properties_v2)|Propriétés de classe en lecture seule|
