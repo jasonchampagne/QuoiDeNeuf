@@ -13,4 +13,5 @@
 |[**RFC**](https://wiki.php.net/rfc/new_in_initializers)|Nouvel initialiseur interne|
 |[**RFC**](https://wiki.php.net/rfc/readonly_properties_v2) - [**DOC**](https://www.php.net/manual/fr/language.oop5.properties.php#language.oop5.properties.readonly-properties)|Propriétés de classe en lecture seule|
 |[**RFC**](https://wiki.php.net/rfc/first_class_callable_syntax) - [**DOC**](https://www.php.net/manual/fr/functions.first_class_callable_syntax.php)|Syntaxe de _callable_ de première classe|
+|[**RFC**](https://wiki.php.net/rfc/noreturn_type) - [**DOC**](https://www.php.net/manual/fr/language.types.declarations.php#language.types.declarations.never)|Type de retour `never`|
 |[**RFC**](https://wiki.php.net/rfc/pure-intersection-types) - [**DOC**](https://www.php.net/manual/fr/language.types.declarations.php#language.types.declarations.composite.intersection)|Types d'intersection|
