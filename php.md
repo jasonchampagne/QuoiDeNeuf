@@ -10,7 +10,7 @@
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
 |[**RFC**](https://wiki.php.net/rfc/final_class_const) - [**DOC**](https://www.php.net/manual/fr/language.oop5.final.php#language.oop5.final.example.php81)|Constantes finales de classe|
-|[**RFC**](https://wiki.php.net/rfc/array_unpacking_string_keys) - [**DOC**](https://www.php.net/manual/fr/language.types.array.php#language.types.array.unpacking)|Déballage des tableaux|
+|[**RFC**](https://wiki.php.net/rfc/array_unpacking_string_keys) - [**DOC**](https://www.php.net/manual/fr/language.types.array.php#language.types.array.unpacking)|Déballage des tableaux avec une clé sous forme de chaîne|
 |[**RFC**](https://wiki.php.net/rfc/enumerations) - [**DOC**](https://www.php.net/manual/fr/language.enumerations.php)|Énumérations|
 |[**RFC**](https://wiki.php.net/rfc/fibers) - [**DOC**](https://www.php.net/manual/fr/language.fibers.php)|Fonctions interruptibles de la pile complète (fibres)|
 |[**RFC**](https://wiki.php.net/rfc/explicit_octal_notation) - [**DOC**](https://www.php.net/manual/fr/migration81.new-features.php#migration81.new-features.core.octal-literal-prefix)|Notation explicite d'un nombre octal|
