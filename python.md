@@ -191,7 +191,7 @@
 |[**PEP 3109**](https://www.python.org/dev/peps/pep-3109/)|Nouveau mot-clé `raise` pour déclencher des exceptions|
 |[**PEP 3110**](https://www.python.org/dev/peps/pep-3110/)|Nouveau mot-clé `except` pour capturer une exception déclenchée|
 |[**PEP 3113**](https://www.python.org/dev/peps/pep-3113/)|Suppression de la séparation des paramètres d'un tuple|
-|[**PEP 3115**](https://www.python.org/dev/peps/pep-3115/)|Nouvelle syntaxe pour les métaclasses : `class C(metaclass=M):`|
+|[**PEP 3115**](https://www.python.org/dev/peps/pep-3115/)|Nouvelle syntaxe pour les métaclasses `class C(metaclass=M):`|
 |[**PEP 3138**](https://www.python.org/dev/peps/pep-3138/)|Nouvelle représentation des chaînes de caractères (`repr()` sur celles-ci n'échappe plus les caractères non-ASCII)|
 |[**PEP 3120**](https://www.python.org/dev/peps/pep-3120/)|L'encodage par défaut des sources est désormais UTF-8|
 |[**PEP 3131**](https://www.python.org/dev/peps/pep-3131/)|Support des lettres non-ASCII comme identifiants|
