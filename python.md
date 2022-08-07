@@ -20,7 +20,7 @@
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
-|[**PEP 654**](https://peps.python.org/pep-0654)||
+|[**PEP 654**](https://peps.python.org/pep-0654)|Groupes d'exceptions et instruction `except*`|
 |[**PEP 655**](https://peps.python.org/pep-0655)||
 |[**PEP 673**](https://peps.python.org/pep-0673)||
 |[**PEP 675**](https://peps.python.org/pep-0675)||
