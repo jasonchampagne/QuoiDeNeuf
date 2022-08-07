@@ -18,7 +18,12 @@
 
 ## 3.11
 
-À venir...
+|RÉFÉRENCE|DESCRIPTION|
+|:--:|:--|
+|[**PEP 654**](https://peps.python.org/pep-0654)||
+|[**PEP 655**](https://peps.python.org/pep-0655)||
+|[**PEP 673**](https://peps.python.org/pep-0673)||
+|[**PEP 675**](https://peps.python.org/pep-0675)||
 
 ## 3.10 (4 octobre 2021)
 
