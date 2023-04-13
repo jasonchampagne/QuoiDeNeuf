@@ -1,5 +1,9 @@
 # Nouveautés C#
 
+## C# 12 (2023)
+
+> [What's new in C# 12](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12)
+
 ## C# 11 (2022)
 
 > [What's new in C# 11](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-11)
