@@ -32,18 +32,18 @@
 
 > [What's new in C# 5](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-50)
 
-## C# 4 (2010)
+## C# 4 (12/04/2010)
 
 > [What's new in C# 4](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-40)
 
-## C# 3 (2007)
+## C# 3 (06/11/2006)
 
 > [What's new in C# 3](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-30)
 
-## C# 2 (2005)
+## C# 2 (07/11/2005)
 
 > [What's new in C# 2](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-20)
 
-## C# 1 (2002)
+## C# 1 (13/02/2002)
 
 > [What's new in C# 1](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-10)
