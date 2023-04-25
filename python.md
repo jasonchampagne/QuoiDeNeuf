@@ -14,6 +14,7 @@
 |[**PEP 655**](https://peps.python.org/pep-0655)|Marquage des éléments individuels d'un `TypedDict` comme nécessaires ou potentiellement manquants|
 |[**PEP 673**](https://peps.python.org/pep-0673)|Nouveau type `Self`|
 |[**PEP 675**](https://peps.python.org/pep-0675)|Type de chaîne littérale arbitraire|
+|[**PEP 678**](https://peps.python.org/pep-0678)|Exceptions enrichies avec des notes|
 
 ## 3.10 (4 octobre 2021)
 
