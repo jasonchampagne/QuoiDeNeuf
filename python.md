@@ -1,6 +1,6 @@
 # Nouveautés Python
 
-## 3.12 (24 avril 2023)
+## 3.12
 
 |RÉFÉRENCE|DESCRIPTION|
 |:--:|:--|
