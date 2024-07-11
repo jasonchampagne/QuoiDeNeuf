@@ -46,7 +46,7 @@
 
 ## C# 2 (7 novembre 2005)
 
-> [What's new in C# 2](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-20)
+> [What's new in C# 2](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-20)
 
 ## C# 1 (13 février 2002)
 
