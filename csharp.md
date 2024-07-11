@@ -50,4 +50,4 @@
 
 ## C# 1 (13 février 2002)
 
-> [What's new in C# 1](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-10)
+> [What's new in C# 1](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-10-1)
